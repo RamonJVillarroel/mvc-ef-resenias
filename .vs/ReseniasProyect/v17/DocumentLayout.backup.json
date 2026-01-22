@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\admin\\desktop\\csharp4\\mvc\\reseniasproyect\\reseniasproyect\\views\\articulo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\articulo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\admin\\desktop\\csharp4\\mvc\\reseniasproyect\\reseniasproyect\\views\\articulo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\articulo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\admin\\desktop\\csharp4\\mvc\\reseniasproyect\\reseniasproyect\\views\\articulo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\articulo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Articulo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Delete.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Articulo\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T22:27:06.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Articulo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Details.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Articulo\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T22:26:37.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Articulo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\ReseniasProyect\\Views\\Articulo\\Edit.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Articulo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T22:26:36.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
