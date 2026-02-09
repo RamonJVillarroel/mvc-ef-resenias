@@ -51,13 +51,11 @@ C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Composition.TypedParts.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Formats.Asn1.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -196,12 +194,6 @@ C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets\msbuild.ReseniasProyect.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets\msbuild.ReseniasProyect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets\msbuild.build.ReseniasProyect.props
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ReseniasProyect.props
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ReseniasProyect.props
-C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\Resenias.74423DB1.Up2Date
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\ReseniasProyect.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\refint\ReseniasProyect.dll
@@ -345,3 +337,9 @@ C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\ReseniasProyect.sourcelink.json
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Desktop\CSHARP4\MVC\ReseniasProyect\ReseniasProyect\obj\Debug\net9.0\staticwebassets.build.json.cache
