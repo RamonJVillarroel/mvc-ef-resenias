@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReseniasProyect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb743a392432b12cf19c1468868952c4da359575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c610019a3fa70b0fae827b9cd60d452e58fd592a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReseniasProyect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReseniasProyect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

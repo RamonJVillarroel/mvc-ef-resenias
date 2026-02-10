@@ -1,15 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ReseniasProyect.Data;
+using ReseniasProyect.Models;
 using ReseniasProyect.Models.dominio;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ReseniasProyect.Controllers
 {
+    [Authorize(Roles = Roles.Admin)]
     public class ArticuloController : Controller
     {
         private readonly ReseniasDbContex _context;
