@@ -1,12 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CSHARP4\\MVC\\ReseniasProyect\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\models\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\models\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|c:\\users\\usuario\\desktop\\c4\\resenias\\mvc-ef-resenias\\reseniasproyect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59EE7022-669A-4E24-8B4C-EFBBF43A810C}|ReseniasProyect\\ReseniasProyect.csproj|solutionrelative:reseniasproyect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T20:24:54.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T20:24:40.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Models\\Roles.cs",
+              "RelativeToolTip": "ReseniasProyect\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:17:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Models\\UsuarioVM.cs",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Models\\UsuarioVM.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Models\\UsuarioVM.cs",
+              "RelativeToolTip": "ReseniasProyect\\Models\\UsuarioVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:16:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ReseniasProyect\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:16:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReseniasProyect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C4\\resenias\\mvc-ef-resenias\\ReseniasProyect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReseniasProyect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T19:59:38.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1461,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

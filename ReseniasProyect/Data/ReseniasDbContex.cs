@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using ReseniasProyect.Models.dominio;
 
 namespace ReseniasProyect.Data
 {
-    public class ReseniasDbContex : DbContext
+    public class ReseniasDbContex : IdentityDbContext
     {
         public ReseniasDbContex(DbContextOptions options) : base(options) { }
 
