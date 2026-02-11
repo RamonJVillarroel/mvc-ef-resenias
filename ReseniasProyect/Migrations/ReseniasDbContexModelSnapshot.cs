@@ -287,6 +287,10 @@ namespace ReseniasProyect.Migrations
                     b.Property<int>("Puntuacion")
                         .HasColumnType("int");
 
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<string>("comentario")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -294,6 +298,8 @@ namespace ReseniasProyect.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("ArticuloId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("resenias");
                 });
@@ -368,7 +374,15 @@ namespace ReseniasProyect.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Articulo");
+
+                    b.Navigation("User");
                 });
 #pragma warning restore 612, 618
         }

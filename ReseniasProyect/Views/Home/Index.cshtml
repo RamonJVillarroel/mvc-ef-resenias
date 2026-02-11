@@ -1,8 +1,24 @@
-﻿@{
+﻿@model HomeViewModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row justify-content-center">
+    <h1> Articulos a reseñar </h1>
+    @foreach (var articulo in Model.Articulos)
+    {
+        <div class="card m-1" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Articulo: @articulo.Nombre</h5>
+                <p class="card-text">Categoria: @articulo.Categoria.Descripcion</p>
+                <a asp-controller="Resenias" asp-action="Create" class="btn btn-primary mb-1" asp-route-articuloId="@articulo.Id">Agregar Reseña</a>
+                <a asp-controller="Resenias"
+                   asp-action="ProductoResenia"
+                   asp-route-id="@articulo.Id"
+                   class="btn btn-info">Ver Reseñas</a>
+            </div>
+        </div>
+
+    }
 </div>
+

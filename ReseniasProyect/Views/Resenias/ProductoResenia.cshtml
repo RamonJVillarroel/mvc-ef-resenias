@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ReseniasProyect.Models.dominio.Resenia>
+
+@{
+    ViewData["Title"] = "Reseñas del Producto";
+}
+
+<h1>Reseñas de: @ViewBag.NombreProducto</h1>
+
+<hr />
+
+@if (!Model.Any())
+{
+    <p>Este producto aún no tiene reseñas.</p>
+}
+else
+{
+    @foreach (var item in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Usuario: @item.User?.UserName</h5>
+                <h6 class="card-subtitle mb-2 text-muted">
+                    Puntuación: @item.Puntuacion / 100 - @item.DateTime.ToShortDateString()
+                </h6>
+                <p class="card-text">Comentario: @item.comentario</p>
+            </div>
+        </div>
+    }
+}
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Volver al Home</a>
